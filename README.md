@@ -11,4 +11,4 @@ Monitoring database tables
 
 ## Install
 * Install xampp (recomended 8.0 or above)
-* Install MICROSOFT DRIVERS 5.9 FOR PHP FOR MICROSOFT SQL SERVER (recomended 5.9)
+* Install MICROSOFT DRIVERS FOR PHP FOR MICROSOFT SQL SERVER (recomended 5.9)
